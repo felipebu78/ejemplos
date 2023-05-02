@@ -1,0 +1,19 @@
+{
+  "name": "ejemplos",
+  "version": "1.0.0",
+  "description": "solo son ejemplos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipebu78/ejemplos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipebu78/ejemplos/issues"
+  },
+  "homepage": "https://github.com/felipebu78/ejemplos#readme"
+}
