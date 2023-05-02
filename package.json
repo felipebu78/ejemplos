@@ -4,7 +4,8 @@
   "description": "solo son ejemplos",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "cypress": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/felipebu78/ejemplos/issues"
   },
-  "homepage": "https://github.com/felipebu78/ejemplos#readme"
+  "homepage": "https://github.com/felipebu78/ejemplos#readme",
+  "devDependencies": {
+    "cypress": "^12.11.0"
+  }
 }
